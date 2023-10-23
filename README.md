@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **malhotraharshil2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-vIuBJ331B4VMH65VatpTzy7e3Cfq0oK/view?usp=share_link](https://drive.google.com/file/d/1-vIuBJ331B4VMH65VatpTzy7e3Cfq0oK/view?usp=share_link)
+- 📄 Know about my experiences [bit.ly/Harshil_Resume](http://bit.ly/Harshil_Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
