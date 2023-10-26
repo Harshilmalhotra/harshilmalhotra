@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **malhotraharshil2@gmail.com**
 
-- 📄 Know about my experiences [Harshil's Resume](http://bit.ly/Harshil_Resume)
+- 📄 Know about my experiences [My Resume](http://bit.ly/Harshil_Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
