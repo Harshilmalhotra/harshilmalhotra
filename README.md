@@ -1,5 +1,14 @@
 
-<h1 align="center">
+
+
+https://github.com/Harshilmalhotra/harshilmalhotra/assets/111488708/c753b784-97e2-4f9d-a235-aed3e48ce7a6
+
+
+<h1 align="center"
+
+
+
+>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harshil+Malhotra!;" />
 </h1>
 
