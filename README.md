@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **malhotraharshil2@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13RXL1SgcEGXvOTeq7M40_ILv1BGXxxBF/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13aGt6YEz7HTIpjVivP7sAbLaIk0m06hS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
