@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshilmalhotra&label=Profile%20views&color=0e75b6&style=flat" alt="harshilmalhotra" /> </p>
 
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Embedded Systems e.g.Arduino,Raspberry Pi**
 
